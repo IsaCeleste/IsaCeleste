@@ -1,16 +1,14 @@
-## Hi there 👋
+*Opaaa, seja bem-vindo* 🤠
 
-<!--
-**IsaCeleste/IsaCeleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Me chamo *Isa*
+- Estou fazendo curso da [Alura](https://www.alura.com.br)
+- Gosto de *artes visuais*
 
-Here are some ideas to get you started:
+*Caso queira entrar em contato comigo* 🐝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0000113276824XSP@al.educacao.sp.gov.br
+
+Bem, é isso :) 
+
+![](https://media1.tenor.com/m/e8-36w65OA4AAAAC/ed-truck.gif)
+
